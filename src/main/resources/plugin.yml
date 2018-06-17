@@ -1,0 +1,11 @@
+name: DemoPlugin
+version: @version@
+main: at.coderdojo.demoplugin.Demoplugin
+load: STARTUP
+authors: [Minecraft, Mastercoders]
+description: Beispielplugin zum erstellen eines neuen Items
+website: https://coderdojo-linz.github.io/
+commands:
+  sayhello:
+    description: Says hello
+    usage: /sayhello

@@ -15,9 +15,9 @@ This should enable everyone to write Craft-Bukkit Plugins with the VS-Code IDE. 
 
 to use this correctly you will need to add
  - Gradle Language Support
- - JAva Extension Pack
+ - Java Extension Pack
  - Language support for Java
- - Java Test runner (if you plan to do test - which you should)
+ - Java Test Runner (if you plan to do test - which you should)
  - Maven for Java
 
  
